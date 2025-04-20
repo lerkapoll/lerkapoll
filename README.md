@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning - Pyrhon
+- 🌱 I’m currently learning - Python
 - 👯 I’m looking to collaborate on: with my older brother
 - 🤔 I’m looking for help with - studies
 - 💬 Ask me about - how much i look forward to summer
